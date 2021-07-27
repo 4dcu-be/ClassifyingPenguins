@@ -1,0 +1,12 @@
+name: pymc3
+channels:
+  - conda-forge
+dependencies:
+  - seaborn
+  - pymc3
+  - pandas
+  - numpy
+  - jupyterlab
+  - arviz
+  - nb_black
+  - altair
