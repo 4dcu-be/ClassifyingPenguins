@@ -2,6 +2,8 @@
 
 # Classifying Palmer's Penguins
 
+The notebooks here belong to [this](http://blog.4dcu.be/programming/biology/2021/08/01/Clustering-penguins.html) blogpost. If you want more details check that one out.
+
 Here are some notebooks of various experiments to use Dirichlet based mixture models to classify a number of datasets like the Iris, Fish Market and Palmer Penguins datasets. 
 
 There is a common challenge in biology that sometimes you are working with a mixture of species and you don't know per se which specimen belongs to which species. Or within one species it might be hard to tell the difference between male and female subjects. So unsupervised classification could be a solution here. To show how this 
